@@ -1,5 +1,7 @@
 ### VitalDB-Dimensionality-Reduction ###
 
+ACTUALLY IT IS INSPIRE
+
 This project contains methods and techniques for testing important covariates in the VitalDB dataset. The main focus is to use dimensionality reduction techniques to identify significant covariates that contribute to outcomes in the dataset.
 
 **Using the Virtual Environment**
