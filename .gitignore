@@ -177,6 +177,7 @@ cython_debug/
 *.tax2010
 *.vcf
 *.xml
+*.pxl
 
 ### venv ###
 # Virtualenv
